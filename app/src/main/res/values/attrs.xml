@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ReelView">
+        <attr name="textColor" format="color"/>
+        <attr name="reelColor" format="color"/>
+        <attr name="paperColor" format="color"/>
+        <attr name="reelWidth" format="dimension"/>
+        <attr name="text" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="duration" format="integer"/>
+    </declare-styleable>
+</resources>
