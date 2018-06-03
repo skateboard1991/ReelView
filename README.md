@@ -1,4 +1,7 @@
 # ReelView
+
+![image](https://github.com/skateboard1991/ReelView/blob/master/effect.gif)
+
 android自定义卷轴控件
  
     <com.skateboard.reelviewtest.ReelView
@@ -8,3 +11,6 @@ android自定义卷轴控件
         android:layout_width="200dp"
         android:layout_height="120dp"
         android:layout_gravity="center"/>
+        
+        
+        
